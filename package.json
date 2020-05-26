@@ -1,15 +1,20 @@
 {
-  "name": "chasrts",
-  "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
-  "scripts": {
-    "start": "node public/server.js"
-  },
-  "author": "",
-  "license": "ISC",
+  "name": "SIT737-COVID19APP",
+  "version": "0.0.0",
   "dependencies": {
-    "chart.js": "^2.9.3",
-    "express": "^4.17.1"
+    "cf-deployment-tracker-client": "*",
+    "commander": "^2.6.0",
+    "express": "^4.14.1",
+    "http-post": "^0.1.1",
+    "http-proxy": "^1.8.1",
+    "chart.js": "^2.9.3"
+  },
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/YemiBabs/COVID19"
   }
 }
