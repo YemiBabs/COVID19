@@ -2,7 +2,7 @@
 
 Welcome to SIT737 Group Project!
 
-This is a web application with the sole aim of building community through 
+COVID19App is web application with the sole aim of building community through 
 quality information sharing on COVID-19.
 
 How to install the web application:
@@ -17,12 +17,13 @@ Option 1:
 3. Go to the default download folder on yoour local system
 
 Option 2:
+
 From a command/shell terminal
 
 cd into the parent directory you want to install the project in
 git clone the project into a child directory
-cd into that child directory
-run npm install to install dependencies
+cd into the child directory
+run npm install to install the dependencies
 For example:
 
 $ cd SIT737Project               
