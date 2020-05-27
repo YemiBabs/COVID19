@@ -14,7 +14,7 @@ Download the master branch:
 Option 1: 
 1. Click the branch button and select master
 2. Click the Clone or download green button to start the download
-3. Go to the default download folder on yoour local system
+3. Go to the default download folder on your local system
 
 Option 2:
 
