@@ -11,13 +11,6 @@ There are two branches; master and development.
 
 Download the master branch:
 
-Option 1: 
-1. Click the branch button and select master
-2. Click the Clone or download green button to start the download
-3. Go to the default download folder on your local system
-
-Option 2:
-
 From a command/shell terminal
 
 cd into the parent directory you want to install the project in
