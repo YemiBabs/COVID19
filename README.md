@@ -17,6 +17,7 @@ cd into the parent directory you want to install the project in
 git clone the project into a child directory
 cd into the child directory
 run npm install to install the dependencies
+
 For example:
 
 $ cd SIT737Project               
