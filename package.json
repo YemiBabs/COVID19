@@ -3,18 +3,21 @@
   "version": "0.0.0",
   "dependencies": {
     "cf-deployment-tracker-client": "*",
+    "chart.js": "^2.9.3",
     "commander": "^2.6.0",
     "express": "^4.14.1",
     "http-post": "^0.1.1",
     "http-proxy": "^1.8.1",
-    "chart.js": "^2.9.3"
+    "mongoose": "^5.9.16",
+    "mongodb": "^3.5.8",
+    "puppeteer-core": "^3.2.0"
   },
   "main": "server.js",
   "scripts": {
     "start": "node server.js"
   },
   "repository": {
-    "type": "git",
+     "type": "git",
     "url": "https://github.com/YemiBabs/COVID19"
   }
 }
