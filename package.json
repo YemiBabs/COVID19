@@ -5,7 +5,7 @@
     "cf-deployment-tracker-client": "*",
     "chart.js": "^2.9.3",
     "commander": "^2.6.0",
-    "express": "^4.14.1",
+    "express": "^4.17.3",
     "http-post": "^0.1.1",
     "http-proxy": "^1.8.1",
     "mongoose": "^5.9.16",
